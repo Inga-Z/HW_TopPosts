@@ -1,7 +1,6 @@
 {
   "name": "06._hwtpopost",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "prestart": "npm i",
@@ -16,5 +15,15 @@
   },
   "engines": {
     "node": "10.x"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inga-Z/HW_TopPosts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Inga-Z/HW_TopPosts/issues"
+  },
+  "homepage": "https://github.com/Inga-Z/HW_TopPosts#readme",
+  "description": ""
 }
