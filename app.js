@@ -52,7 +52,7 @@ server.delete('/posts/:id', (req, res) =>{
         return;
     }
 
-    posts.splice(index, 1);
+    const remove = posts.splice(index, 1);
     res.send(posts);
 });
 
